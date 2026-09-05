@@ -1,0 +1,6 @@
+{
+  "name": "AfterScene",
+  "description": "Catálogo pessoal de filmes, séries, animes e doramas para registrar obras e sentimentos, incluindo código fonte Jetpack Compose para fins acadêmicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

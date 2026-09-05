@@ -1,0 +1,152 @@
+{
+  "moods": [
+    {
+      "id": 1,
+      "name": "Para chorar",
+      "emoji": "😢",
+      "description": "Obras comoventes e profundas para soltar as emoções",
+      "works": [
+        {
+          "id": 1,
+          "title": "Your Name",
+          "type": "Anime",
+          "description": "Uma conexão transcendental entre dois jovens através do tempo e espaço."
+        },
+        {
+          "id": 2,
+          "title": "Túmulo dos Vagalumes",
+          "type": "Filme",
+          "description": "Um retrato devastador e comovente sobre o amor fraternal durante a guerra."
+        },
+        {
+          "id": 3,
+          "title": "Clannad: After Story",
+          "type": "Anime",
+          "description": "Uma jornada sobre família, sacrifício e a preciosidade dos momentos simples."
+        },
+        {
+          "id": 16,
+          "title": "The Double",
+          "type": "Dorama",
+          "description": "Dorama de Vingana, mas com tramas bem tristes e traumticas. Importante verificar os gatilhos antes de assistir, tpicos sensveis e violncia."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Para se alegrar",
+      "emoji": "😄",
+      "description": "Comédias leves e histórias vibrantes para levantar o astral",
+      "works": [
+        {
+          "id": 4,
+          "title": "Spy x Family",
+          "type": "Anime",
+          "description": "Uma família nada convencional vivendo situações hilárias e fofas."
+        },
+        {
+          "id": 5,
+          "title": "Haikyuu!!",
+          "type": "Anime",
+          "description": "Energia contagiante, superação e trabalho em equipe eletrizante."
+        },
+        {
+          "id": 6,
+          "title": "Pousando no Amor",
+          "type": "Dorama",
+          "description": "Romance divertido e carismático com reviravoltas inusitadas."
+        },
+        {
+          "id": 17,
+          "title": "Along for the Ride",
+          "type": "Filme",
+          "description": "Filme de romance com temtica de \"amor de vero, romance leve que vai sendo construdo bem devagar, fala sobre perda, sobre de descobrir e redeno."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Para sentir nostalgia",
+      "emoji": "🥹",
+      "description": "Viagens no tempo que aquecem o coração com lembranças queridas",
+      "works": [
+        {
+          "id": 7,
+          "title": "A Viagem de Chihiro",
+          "type": "Filme",
+          "description": "A magia inesquecível da infância em um mundo espiritual deslumbrante."
+        },
+        {
+          "id": 8,
+          "title": "Stranger Things",
+          "type": "Série",
+          "description": "Aventuras nos anos 80 com mistério, amizade e sintetizadores."
+        },
+        {
+          "id": 9,
+          "title": "Digimon Adventure",
+          "type": "Anime",
+          "description": "Amizades inquebráveis e o sentimento de desbravar o desconhecido."
+        },
+        {
+          "id": 18,
+          "title": "Inuyasha",
+          "type": "Anime",
+          "description": "Anime lanado em 1996, shonen classico."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Para relaxar",
+      "emoji": "☕",
+      "description": "Ritmo calmo e aconchegante para desestressar a mente",
+      "works": [
+        {
+          "id": 10,
+          "title": "Yuru Camp",
+          "type": "Anime",
+          "description": "Acampamentos serenos, comida quentinha e paisagens relaxantes ao ar livre."
+        },
+        {
+          "id": 11,
+          "title": "Hospital Playlist",
+          "type": "Dorama",
+          "description": "A rotina calorosa e as sessões de banda de cinco médicos amigos."
+        },
+        {
+          "id": 12,
+          "title": "Samurai Gourmet",
+          "type": "Série",
+          "description": "Um senhor aposentado descobrindo o prazer descomplicado da boa gastronomia."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Para se emocionar",
+      "emoji": "✨",
+      "description": "Histórias inspiradoras que tocam a alma e transformam perspectivas",
+      "works": [
+        {
+          "id": 13,
+          "title": "Violet Evergarden",
+          "type": "Anime",
+          "description": "A busca pelo significado de 'eu te amo' através de cartas escritas com o coração."
+        },
+        {
+          "id": 14,
+          "title": "A Voz do Silêncio (Koe no Katachi)",
+          "type": "Filme",
+          "description": "Uma narrativa sensível sobre redenção, perdão e empatia."
+        },
+        {
+          "id": 15,
+          "title": "Interestelar",
+          "type": "Filme",
+          "description": "O poder do amor paternal cruzando as barreiras do tempo e da gravidade."
+        }
+      ]
+    }
+  ]
+}
